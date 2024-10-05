@@ -1,0 +1,24 @@
+.bg{
+    background-image: url("https://ik.imagekit.io/sha13/todo-bg?updatedAt=1728125834178");
+    width:350px;
+    height:600px;
+    color:white;
+    font-size: medium;
+    padding:5px;
+    
+}
+.click{
+    background-color: orange;
+    height:35px;
+    width:80px;
+    color: white;
+    font-weight: 600;
+    font-size: medium;
+}
+.button{
+    text-align: center;
+}
+.a{
+    color: white;
+    text-align: center;
+}
